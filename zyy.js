@@ -155,13 +155,13 @@ var buatpesan = await generateWAMessageFromContent(m.chat, {
           {
             "urlButton": {
               "displayText": "My Group",
-              "url": "https://chat.whatsapp.com/E14rIyYMuovIfkskhi5QN9"
+              "url": "https://chat.whatsapp.com/CLiP64ipTLNIZeecmyPXRJ"
             }
           },
           {
             "callButton": {
               "displayText": "Call Owner",
-              "phoneNumber": "+62 858-7831-3791"
+              "phoneNumber": "+62 852-3260-4817"
             }
           },
           {
